@@ -1,0 +1,14 @@
+awal 1 gambar diaugmentasi jadi 18 dari 24 - 6, rotate hapus
+
+- awal defect 216 - 54 = 162
+hapus rotate 1 2 4 5 7 8 (9 9 9 9 9 9) 162 defect
+
+- awal normal 216 - 54 = 162
+hapus rotate 1 2 4 5 7 8 (9 9 9 9 9 9) 162 normal 
+
+jadi 1 gambar diaugmentasi jadi 18
+
+162 x 0.8 = 129.6 -> 130
+162 x 0.2 = 32.4 -> 32
+
+32 / 9 = 3.5556

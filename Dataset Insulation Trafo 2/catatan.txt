@@ -1,0 +1,5 @@
+invert dan solarize hapus
+scale dari 9 jadi 5
+1 gambar diaugmentasi jadi 24
+rotate yg ada bingkai hitam hilangkan hitamnya, edit crop manual, rotate 1 2 4 5 7 8
+translasi ada bingkai hitam hilangkan hitamnya
